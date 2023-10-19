@@ -38,6 +38,6 @@ public class Atm {
             case 4:break;
             default:System.out.println("Wrong Choice ....");
         }
-        // sc.close();
+         sc.close();
     }    
 }
